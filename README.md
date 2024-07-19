@@ -1,4 +1,4 @@
-![Banner](https://imgur.com/c55c7237-6f95-414f-90a3-7ae128ae65de)
+![Banner](https://i.imgur.com/q3WKx2H_d.webp?maxwidth=1520&fidelity=grand)
 ## Hi there
 <!--
 **alphamerics/alphamerics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
