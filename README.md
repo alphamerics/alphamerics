@@ -1,5 +1,5 @@
 ![Banner](https://i.imgur.com/eCkfMGz.png)
-<h1 align="center">Hey, I'm AlphaS</h1>
+<h1 align="center">Hey, I'm Alpha</h1>
 <h3 align="center">A fullstack developer with the passion of combining contemporary design with powerful functionality.</h3>
 <p><strong>Development</strong>: Typescript | Javascript | C# | Java</p>
 <p><strong>Skills</strong>: Fullstack Web Development, Data Analysis, Machine Learning</p>
