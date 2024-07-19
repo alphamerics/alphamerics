@@ -1,12 +1,7 @@
 ![Banner](https://i.imgur.com/q3WKx2H_d.webp?maxwidth=1520&fidelity=grand)
-<p><strong>Tech:</strong> JavaScript, Python, React</p>
+<p><strong>Development</strong>Typescript | Javascript | C# | Java</p>
 <p><strong>Hobbies:</strong> Gaming, Reading, Traveling</p>
-<p><strong>Skills:</strong> Web Development, Data Analysis, Machine Learning</p>
-| Category | Description          |
-|----------|----------------------|
-| **Tech** | JavaScript, Python, React |
-| **Hobbies** | Gaming, Reading, Traveling |
-| **Skills** | Web Development, Data Analysis, Machine Learning |
+<p><strong>Skills:</strong> Fullstack Web Development, Data Analysis, Machine Learning</p>
 ## Hi there
 <!--
 **alphamerics/alphamerics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
